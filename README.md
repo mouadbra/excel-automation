@@ -1,4 +1,3 @@
-"""
 # Excel Automation with Python and OpenPyXL
 
 This project demonstrates how to automate Excel file operations using Python and the OpenPyXL library, with real-time data from APIs.
@@ -60,4 +59,4 @@ excel-automation/
 ├── requirements.txt
 ├── .env
 └── README.md
-```
+
